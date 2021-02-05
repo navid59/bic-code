@@ -1,1 +1,1 @@
-# bic-code
+# BIC code de bancii din Romania
